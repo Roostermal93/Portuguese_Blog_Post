@@ -1,8 +1,15 @@
 {
-    "count": 6,
+    "count": 8,
     "next": null,
     "previous": null,
     "results": [
+        {
+            "id": "d3ac7886-0147-4ba0-912d-10a4781ed175",
+            "collectionId": "Portuguese",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Portuguese/d3ac7886-0147-4ba0-912d-10a4781ed175_pt_Female.mp4"
+        },
         {
             "id": "e2236c86-5ad6-4d2b-9489-de39b260de55",
             "collectionId": "Portuguese",
@@ -16,6 +23,13 @@
             "type": "Blog_Post",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Portuguese/9f204c77-e249-47f7-92b1-f5477b2686d3_pt_Female.mp4"
+        },
+        {
+            "id": "0ad54727-b686-4020-b274-752dafdd9a47",
+            "collectionId": "Portuguese",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Portuguese/0ad54727-b686-4020-b274-752dafdd9a47_pt_Female.mp4"
         },
         {
             "id": "93c5ce34-0cda-4632-98b2-8ccf8760ee3f",
